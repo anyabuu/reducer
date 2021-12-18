@@ -18,7 +18,6 @@ function reducer (string, action) {
             console.log('Error action')
 
     }
-
 }  
 
 
